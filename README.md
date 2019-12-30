@@ -1,6 +1,6 @@
 # easy_toll
 
-A new Flutter project.
+Blockchain-BLE-Geofencing based automated toll system.
 
 ## Getting Started
 
